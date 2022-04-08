@@ -12,3 +12,6 @@ export  async function connect(){
     console.log(e);
  }
 }
+
+
+//npm i -g  @babel/node 
